@@ -13,6 +13,7 @@
 		F5BBAD8424166FB500CBD320 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5BBAD8224166FB500CBD320 /* Main.storyboard */; };
 		F5BBAD8624166FB900CBD320 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F5BBAD8524166FB900CBD320 /* Assets.xcassets */; };
 		F5BBAD8924166FB900CBD320 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5BBAD8724166FB900CBD320 /* LaunchScreen.storyboard */; };
+		F5BBAD912416799500CBD320 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5BBAD902416799500CBD320 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F5BBAD8524166FB900CBD320 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F5BBAD8824166FB900CBD320 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F5BBAD8A24166FB900CBD320 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5BBAD902416799500CBD320 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				F5BBAD8524166FB900CBD320 /* Assets.xcassets */,
 				F5BBAD8724166FB900CBD320 /* LaunchScreen.storyboard */,
 				F5BBAD8A24166FB900CBD320 /* Info.plist */,
+				F5BBAD902416799500CBD320 /* TableViewCell.swift */,
 			);
 			path = GistsLoader;
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F5BBAD8124166FB500CBD320 /* ViewController.swift in Sources */,
+				F5BBAD912416799500CBD320 /* TableViewCell.swift in Sources */,
 				F5BBAD7D24166FB500CBD320 /* AppDelegate.swift in Sources */,
 				F5BBAD7F24166FB500CBD320 /* SceneDelegate.swift in Sources */,
 			);
